@@ -13,6 +13,4 @@ Customer CRUD module source code and screenshots.
 - show.blade.php
 - app.blade.php
 
-## Author
-Name: Horng Kimsomnang  
-ID: B20231317
+
